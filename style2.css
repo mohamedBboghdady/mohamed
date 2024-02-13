@@ -78,7 +78,7 @@
     
 } 
 /* welcome */
-/* .welcome{
+.welcome{
     text-align: center;
     padding: 4vh 6vh;
     h3{
@@ -150,7 +150,7 @@
     }
 } */
 /* photo */
-/* .photo{
+.photo{
     display: flex;
     width: 100%;
     
@@ -215,9 +215,9 @@ width: 25%;
       }
   }
 
-} */
+} 
 /* Coaches */
-/* .Coaches{
+ .Coaches{
    margin-bottom: 28vh;
    display: block;
    align-items: center;
@@ -324,8 +324,8 @@ width: 25%;
 
   
    }
-} */
-/* .backgr{
+} 
+.backgr{
     height: 100vh;
     background-image: url(/img/background-05-1920x850.jpg);
     
@@ -360,7 +360,7 @@ width: 25%;
     }
     }
 
-  } */
+  } 
 
 
    
@@ -381,7 +381,7 @@ width: 25%;
 
 
 
-/* footer{
+ footer{
     background-color: rgb(17, 16, 16);
     display: flex;
     justify-content: space-around;
@@ -501,7 +501,7 @@ display: flex;
 width: 10vh;
 height: 5vh;
 margin-top: 5VH;
-} */
+}
 
 /* baig2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222 */
 .abuotco{
