@@ -157,16 +157,16 @@
     padding-top: 5vh;
     padding-bottom: 4vh;
     .img1{
-        background-image: url(/img/home-01-480x480.jpg);
+        background-image: url(img/home-01-480x480.jpg);
       }
       .img2{
-        background-image: url(/img/home-02-480x480.jpg);
+        background-image: url(img/home-02-480x480.jpg);
       }
       .img3{
-        background-image: url(/img/home-03-480x480.jpg);
+        background-image: url(img/home-03-480x480.jpg);
       }
       .img4{
-        background-image: url(/img/home-04-480x480.jpg);
+        background-image: url(img/home-04-480x480.jpg);
       }
 }
 .pohot2{
@@ -327,7 +327,7 @@ width: 25%;
 } 
 .backgr{
     height: 100vh;
-    background-image: url(/img/background-05-1920x850.jpg);
+    background-image: url(img/background-05-1920x850.jpg);
     
   background-size: cover;
   display: flex;
@@ -506,7 +506,7 @@ margin-top: 5VH;
 /* baig2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222 */
 .abuotco{
    
-    background-image: url(/img/background-04-1920x750.jpg);
+    background-image: url(img/background-04-1920x750.jpg);
     
   background-size: cover;
   display: flex;
@@ -585,16 +585,16 @@ i{
     padding-top: 5vh;
     padding-bottom: 4vh;
     .img1{
-        background-image: url(/img/about-01-480x480.jpg);
+        background-image: url(img/about-01-480x480.jpg);
       }
       .img2{
-        background-image: url(/img/about-02-480x480.jpg);
+        background-image: url(img/about-02-480x480.jpg);
       }
       .img3{
-        background-image: url(/img/home-02-480x480.jpg);
+        background-image: url(img/home-02-480x480.jpg);
       }
       .img4{
-        background-image: url(/img/home-03-480x480.jpg);
+        background-image: url(img/home-03-480x480.jpg);
       }
 }
 .pohot22{
